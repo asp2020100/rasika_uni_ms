@@ -20,7 +20,7 @@ sudo apt-get install screen -y
 
 
 # Git Clone 
-git clone https://github.com/ASP2020089/uni_ms.git
+git clone https://github.com/asp2020100/rasika_uni_ms.git
 cd uni_ms
 
 # Create a python virtual environment
